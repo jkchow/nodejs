@@ -20,12 +20,16 @@
 </template>
 
 <script>
+import firstcomponent from './component/firstcomponent.vue'
 export default {
   name: 'app',
   data() {
     return {
       msg: 'Welcome to Your Vue.js App'
     }
+  },
+  component: {
+    firstcomponent
   }
 }
 </script>
