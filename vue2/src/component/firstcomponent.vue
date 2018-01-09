@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      author: "周振"
+      author: "作者周振"
     }
   }
 }
