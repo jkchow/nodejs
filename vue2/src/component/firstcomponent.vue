@@ -9,6 +9,7 @@ export default {
   data() {
     return {
       author: "作者周振"
+      
     }
   }
 }
