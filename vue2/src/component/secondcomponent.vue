@@ -1,9 +1,9 @@
 <template>
 <div id="secondcomponent">
-  <h1>I am another page</h1>
+  <h1>I am another page qqq</h1>
 
-  <a> written by {{ author }} </a>
-  <p> 感谢大神吧！！！！ <a href="https://github.com/showonne">showonne</a>大神的技术指导</p>
+  <a> written bb by {{ author }} </a>
+  <p> 感谢大神吧！22！！！ <a href="https://github.com/showonne">showonne44</a>大神的技术指导</p>
 </div>
 </template>
 
